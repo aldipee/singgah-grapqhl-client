@@ -31,6 +31,4 @@ yarn.lock
 .eslintcache
 
 # codegen
-schema.json
-globalTypes.ts
-__generated__/
+
